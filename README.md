@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/oluwakemiegbinola" target="blank"><img src="https://img.shields.io/twitter/follow/oluwakemiegbinola?logo=twitter&style=for-the-badge" alt="oluwakemiegbinola" /></a> </p>
 
-- 🔭 I’m currently working on **My personal portfolio project**
+- 🔭 I’m currently working on **personal portfolio project**
 
 - 🌱 I’m currently learning **React Native**
 
